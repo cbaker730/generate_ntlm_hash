@@ -13,7 +13,7 @@ Or, in Python3:
 
 ```
 root@kali:~# python3 generate_ntlm_hash_python3.py -h
-usage: gen2.py [-h] [-p PASSWORD] [-o OUTFILE]
+usage: generate_ntlm_hash_python3.py [-h] [-p PASSWORD] [-o OUTFILE]
 
 optional arguments:
   -h, --help            show this help message and exit
